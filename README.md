@@ -1,6 +1,6 @@
 [![MasterHead](https://media.istockphoto.com/vectors/front-end-development-web-banner-concept-vector-id1167600197?k=20&m=1167600197&s=170667a&w=0&h=eXf3kFtGYdxrPeduZv6DcKSFhr9y0HaXgX3jcxObX_g=)]
 <h1 align="center">Hi 👋, I'm Akhil Basnotra</h1>
-<h3 align="center">I'm a Frontend Web Developer building the Front-end of Websites and Web Applications that leads to the success of the overall product. Follow me on Linkedin for the Awesome content related to Web Development and Programming 🚀</h3>
+<h3 align="center">I'm a Civil Engineer turned Frontend Web Developer building the Front-end of Websites that leads to the success of the overall product. Follow me on Linkedin for the Awesome content related to Web Development and Programming 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 <p align="left"> <a href="https://twitter.com/akhil48202953" target="blank"><img src="https://img.shields.io/twitter/follow/akhil48202953?logo=twitter&style=for-the-badge" alt="akhil48202953" /></a> </p>
 
@@ -13,8 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akhil48202953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhil48202953" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/akhil-basnotra-4a62ba255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/akhil-basnotra-4a62ba255" height="30" width="40" /></a>
-<a href="https://instagram.com/akhil_basnotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhil_basnotra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akhilbasnotra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhilbasnotra/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
